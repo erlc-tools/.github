@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center"><img align="center" src="description.png" width="450"></img></p>
+<p align="center"><img align="center" src="description.png" width="425"></img></p>
 
 
 <h4><strong>directory</strong></h4>
