@@ -11,7 +11,7 @@
 
 <h4><strong>directory</strong></h4>
 
-- [erlcpy](https://github.com/erlc-tools/erlcpy)
+- [erlc-py](https://github.com/erlc-tools/erlcpy)
 - [playtime](https://github.com/erlc-tools/playtime)
 - [reasoning](https://github.com/erlc-tools/reasoning)
 
